@@ -12,8 +12,8 @@ A simple mobile app built with ionic. :stuck_out_tongue_winking_eye:
 
 ## Some cool stuff implemented:
 
-*Pull to refresh
-*Local storage
+* Pull to refresh
+* Local storage
 
 
 THIS IS A BETA VERSION WITH LOTS OF CHANGES NEEDED.
@@ -27,5 +27,5 @@ THIS IS A BETA VERSION WITH LOTS OF CHANGES NEEDED.
 
 Inspired by the awesome @bradtraversy
 
-PS:
+### PS:
 * API consumption; hence, no custom backend.
