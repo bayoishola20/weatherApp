@@ -12,9 +12,17 @@ PS:
 * NodeJS
 * Ionic and Ionic CLI
 
+##Some cool stuff implemented:
+
+*Pull to refresh
+*Local storage
 
 
-![Preview](https://github.com/bayoishola20/converter/blob/master/assets/img/bayoishola20_converter.png "Preview")
+THIS IS A BETA VERSION WITH LOTS OF CHANGES NEEDED.
+
+
+
+![Preview](https://github.com/bayoishola20/weatherApp/blob/master/weatherApplication/src/assets/bayoishola20-weatherApplication.png "Preview")
 
 [bayoishola20](github.bayoishola20.io)
 
