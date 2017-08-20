@@ -1,0 +1,54 @@
+// http://ionicframework.com/docs/theming/
+
+
+// App Global Sass
+// --------------------------------------------------
+
+.home, .about, .settings {
+    background: #777;
+    color: color($colors, light);
+    // margin-top: 20px;
+}
+
+.toolbar-title{
+    text-align: center;
+}
+
+// .tabs-md .tab-button-icon {
+//     color: color($colors, light);
+// }
+
+.temp {
+    font-size: 90px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.place, .icon, .desc {
+    text-align: center;
+}
+
+.icon img{
+    width: 80px;
+}
+
+.place {
+    font-size: 30px;
+}
+
+.desc {
+    font-size: 10px;
+}
+
+//Change App font
+
+@font-face {
+  font-family: 'Bellefair';
+  src: url('../assets/fonts/Bellefair-Regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: 'Bellefair';
+}
