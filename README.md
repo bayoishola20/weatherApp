@@ -1,5 +1,5 @@
 # Ionic Application
-A simple mobile app built with ionic. :stuck_out_tongue_winking_eye:
+A simple mobile app built with Ionic 3 and Angular 4. :stuck_out_tongue_winking_eye:
 
 ## To use:
 * Clone the repo: `git clone https://github.com/bayoishola20/weatherApp.git`
