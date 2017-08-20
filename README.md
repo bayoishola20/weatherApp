@@ -4,15 +4,13 @@ A simple mobile app built with ionic. :stuck_out_tongue_winking_eye:
 ## To use:
 * Clone the repo: `git clone https://github.com/bayoishola20/weatherApp.git`
 
-PS:
-* API consumption; hence, no custom backend.
 
 ## You should have installed (most recent versions):
 
 * NodeJS
 * Ionic and Ionic CLI
 
-##Some cool stuff implemented:
+## Some cool stuff implemented:
 
 *Pull to refresh
 *Local storage
@@ -28,3 +26,6 @@ THIS IS A BETA VERSION WITH LOTS OF CHANGES NEEDED.
 
 
 Inspired by the awesome @bradtraversy
+
+PS:
+* API consumption; hence, no custom backend.
