@@ -4,6 +4,10 @@ A simple mobile app built with Ionic 3 and Angular 4. :stuck_out_tongue_winking_
 ## To use:
 * Clone the repo: `git clone https://github.com/bayoishola20/weatherApp.git`
 
+* `npm install`
+
+* `ionic serve` | `ionic serve -l`
+
 
 ## You should have installed (most recent versions):
 
