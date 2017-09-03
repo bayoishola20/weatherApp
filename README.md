@@ -20,7 +20,7 @@ A simple mobile app built with Ionic 3 and Angular 4. :stuck_out_tongue_winking_
 * Local storage
 
 
-THIS IS A BETA VERSION WITH LOTS OF CHANGES NEEDED.
+THIS IS A BETA VERSION WITH LOTS OF CHANGES STILL NEEDED.
 
 
 
