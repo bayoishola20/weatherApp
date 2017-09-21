@@ -29,7 +29,7 @@ THIS IS A BETA VERSION WITH LOTS OF CHANGES STILL NEEDED.
 [bayoishola20](github.bayoishola20.io)
 
 
-Inspired by the awesome @bradtraversy
+Inspired by the awesome @bradtraversy.
 
 ### PS:
 * API consumption; hence, no custom backend.
